@@ -1,5 +1,5 @@
 # Terminology
-- `repository` | `repo` : carpeta que git está controlando.
+- `repository` | `repo` : storage location for software packages
 - `Tracked` : fichero que git está controlando
 - `Untracked` : fichero que git NO está controlando
 - `commit` : punto en la linea temporal
